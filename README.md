@@ -49,3 +49,7 @@ For full web verification and deep image catalog audits:
 ## Visual Accessibility and Media Optimization Advisory
 
 For platforms operating across Australia under W3C WCAG Standards and Australian Digital Service Guidelines, contact **TAVARDT Australia**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
