@@ -1,14 +1,13 @@
 # Image SEO and Visual Accessibility Auditor
 
 [![Image SEO Auditor](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/au/image-seo-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Australia-00C853.svg)](https://ag.tavardt.com/au/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audits alt text completeness, next-gen format adoption, and layout stability dimensions in Australia.
 
-Developed and maintained by the digital systems and visual accessibility division of **[TAVARDT Australia](https://ag.tavardt.com/au/)**.
+Developed and maintained by the digital systems and visual accessibility division of **TAVARDT Australia**.
 
----
+***
 
 ## Image SEO and Accessibility Audit Capabilities
 
@@ -18,7 +17,7 @@ Developed and maintained by the digital systems and visual accessibility divisio
 * **Lazy Loading Implementation**: Audits `loading="lazy"` attributes on non-critical images.
 * **Image Optimization Health Score**: Quantitative 0 to 100 health score with prioritized technical remediation steps.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python image_seo_validator.py https://company.com.au
 To output results in structured JSON format:
 
 ```bash
-python image_seo_validator.py https://company.com.au --json
+python image_seo_validator.py https://company.com.au -json
 ```
 
----
+***
 
 ## Comprehensive Web Diagnostic
 
 For full web verification and deep image catalog audits:
 
-* **[Official Image SEO Checker Tool](https://tools.tavardt.com/au/image-seo-checker/)**
-* **[TAVARDT Australia Enterprise Portal](https://ag.tavardt.com/au/)**
+* **Official Image SEO Checker Tool**
+* **TAVARDT Australia Enterprise Portal**
 
----
+***
 
 ## Visual Accessibility and Media Optimization Advisory
 
-For platforms operating across Australia under W3C WCAG Standards and Australian Digital Service Guidelines, contact **[TAVARDT Australia](https://ag.tavardt.com/au/contact/)**.
+For platforms operating across Australia under W3C WCAG Standards and Australian Digital Service Guidelines, contact **TAVARDT Australia**.
