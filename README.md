@@ -6,8 +6,6 @@
 
 Audits alt text completeness, next-gen format adoption, and layout stability dimensions in Australia.
 
-Developed and maintained by the digital systems and visual accessibility division of **TAVARDT**.
-
 ***
 
 ## Image SEO and Accessibility Audit Capabilities
@@ -38,15 +36,6 @@ python image_seo_validator.py https://company.com.au -json
 
 ***
 
-## Comprehensive Web Diagnostic
-
-For full web verification and deep image catalog audits:
-
-* **Official Image SEO Checker Tool**
-* **TAVARDT Enterprise Portal**
-
-***
-
 ## Visual Accessibility and Media Optimization Advisory
 
 For platforms operating across Australia under W3C WCAG Standards and Australian Digital Service Guidelines, contact **TAVARDT**.
@@ -62,7 +51,7 @@ For platforms operating across Australia under W3C WCAG Standards and Australian
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
